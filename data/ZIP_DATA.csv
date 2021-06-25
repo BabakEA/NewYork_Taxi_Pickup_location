@@ -1,0 +1,179 @@
+﻿Master_class,Master_class_name,Sub_class,Sub_class_name,Zip_Code
+1,Bronx,1,Central Bronx ,10453
+1,Bronx,1,Central Bronx ,10457
+1,Bronx,1,Central Bronx ,10460
+1,Bronx,2,Bronx Park and Fordham ,10458
+1,Bronx,2,Bronx Park and Fordham ,10467
+1,Bronx,2,Bronx Park and Fordham ,10468
+1,Bronx,3,High Bridge and Morrisania ,10451
+1,Bronx,3,High Bridge and Morrisania ,10452
+1,Bronx,3,High Bridge and Morrisania ,10456
+1,Bronx,4,Hunts Point and Mott Haven ,10454
+1,Bronx,4,Hunts Point and Mott Haven ,10455
+1,Bronx,4,Hunts Point and Mott Haven ,10459
+1,Bronx,4,Hunts Point and Mott Haven ,10474
+1,Bronx,5,Kingsbridge and Riverdale ,10463
+1,Bronx,5,Kingsbridge and Riverdale ,10471
+1,Bronx,6,Northeast Bronx ,10466
+1,Bronx,6,Northeast Bronx ,10469
+1,Bronx,6,Northeast Bronx ,10470
+1,Bronx,6,Northeast Bronx ,10475
+1,Bronx,7,Southeast Bronx ,10461
+1,Bronx,7,Southeast Bronx ,10462
+1,Bronx,7,Southeast Bronx ,10464
+1,Bronx,7,Southeast Bronx ,10465
+1,Bronx,7,Southeast Bronx ,10472
+1,Bronx,7,Southeast Bronx ,10473
+2,Brooklyn,1,Central Brooklyn ,11212
+2,Brooklyn,1,Central Brooklyn ,11213
+2,Brooklyn,1,Central Brooklyn ,11216
+2,Brooklyn,1,Central Brooklyn ,11233
+2,Brooklyn,1,Central Brooklyn ,11238
+2,Brooklyn,2,Southwest Brooklyn ,11209
+2,Brooklyn,2,Southwest Brooklyn ,11214
+2,Brooklyn,2,Southwest Brooklyn ,11228
+2,Brooklyn,3,Borough Park ,11204
+2,Brooklyn,3,Borough Park ,11218
+2,Brooklyn,3,Borough Park ,11219
+2,Brooklyn,3,Borough Park ,11230
+2,Brooklyn,4,Canarsie and Flatlands,11234
+2,Brooklyn,4,Canarsie and Flatlands,11236
+2,Brooklyn,4,Canarsie and Flatlands,11239
+2,Brooklyn,5,Southern Brooklyn ,11223
+2,Brooklyn,5,Southern Brooklyn ,11224
+2,Brooklyn,5,Southern Brooklyn ,11229
+2,Brooklyn,5,Southern Brooklyn ,11235
+2,Brooklyn,6,Northwest Brooklyn,11201
+2,Brooklyn,6,Northwest Brooklyn,11205
+2,Brooklyn,6,Northwest Brooklyn,11215
+2,Brooklyn,6,Northwest Brooklyn,11217
+2,Brooklyn,6,Northwest Brooklyn,11231
+2,Brooklyn,7,Flatbush ,11203
+2,Brooklyn,7,Flatbush ,11210
+2,Brooklyn,7,Flatbush ,11225
+2,Brooklyn,7,Flatbush ,11226
+2,Brooklyn,8,East New York and New Lots ,11207
+2,Brooklyn,8,East New York and New Lots ,11208
+2,Brooklyn,9,Greenpoint ,11211
+2,Brooklyn,9,Greenpoint ,11222
+2,Brooklyn,10,Sunset Park ,11220
+2,Brooklyn,10,Sunset Park ,11232
+2,Brooklyn,11,Bushwick and Williamsburg ,11206
+2,Brooklyn,11,Bushwick and Williamsburg ,11221
+2,Brooklyn,11,Bushwick and Williamsburg ,11237
+3,Manhattan,1,Central Harlem ,10026
+3,Manhattan,1,Central Harlem ,10027
+3,Manhattan,1,Central Harlem ,10030
+3,Manhattan,1,Central Harlem ,10037
+3,Manhattan,1,Central Harlem ,10039
+3,Manhattan,2,Chelsea and Clinton ,10001
+3,Manhattan,2,Chelsea and Clinton ,10011
+3,Manhattan,2,Chelsea and Clinton ,10018
+3,Manhattan,2,Chelsea and Clinton ,10019
+3,Manhattan,2,Chelsea and Clinton ,10020
+3,Manhattan,2,Chelsea and Clinton ,10036
+3,Manhattan,3,East Harlem ,10029
+3,Manhattan,3,East Harlem ,10035
+3,Manhattan,4,Gramercy Park and Murray Hill ,10010
+3,Manhattan,4,Gramercy Park and Murray Hill ,10016
+3,Manhattan,4,Gramercy Park and Murray Hill ,10017
+3,Manhattan,4,Gramercy Park and Murray Hill ,10022
+3,Manhattan,5,Greenwich Village and Soho ,10012
+3,Manhattan,5,Greenwich Village and Soho ,10013
+3,Manhattan,5,Greenwich Village and Soho ,10014
+3,Manhattan,6,Lower Manhattan ,10004
+3,Manhattan,6,Lower Manhattan ,10005
+3,Manhattan,6,Lower Manhattan ,10006
+3,Manhattan,6,Lower Manhattan ,10007
+3,Manhattan,6,Lower Manhattan ,10038
+3,Manhattan,6,Lower Manhattan ,10280
+3,Manhattan,7,Lower East Side ,10002
+3,Manhattan,7,Lower East Side ,10003
+3,Manhattan,7,Lower East Side ,10009
+3,Manhattan,8,Upper East Side ,10021
+3,Manhattan,8,Upper East Side ,10028
+3,Manhattan,8,Upper East Side ,10044
+3,Manhattan,8,Upper East Side ,10065
+3,Manhattan,8,Upper East Side ,10075
+3,Manhattan,8,Upper East Side ,10128
+3,Manhattan,9,Upper West Side ,10023
+3,Manhattan,9,Upper West Side ,10024
+3,Manhattan,9,Upper West Side ,10025
+3,Manhattan,10,Inwood and Washington Heights ,10031
+3,Manhattan,10,Inwood and Washington Heights ,10032
+3,Manhattan,10,Inwood and Washington Heights ,10033
+3,Manhattan,10,Inwood and Washington Heights ,10034
+3,Manhattan,10,Inwood and Washington Heights ,10040
+4,Queens,1,Northeast Queens ,11361
+4,Queens,1,Northeast Queens ,11362
+4,Queens,1,Northeast Queens ,11363
+4,Queens,1,Northeast Queens ,11364
+4,Queens,2,North Queens ,11354
+4,Queens,2,North Queens ,11355
+4,Queens,2,North Queens ,11356
+4,Queens,2,North Queens ,11357
+4,Queens,2,North Queens ,11358
+4,Queens,2,North Queens ,11359
+4,Queens,2,North Queens ,11360
+4,Queens,3,Central Queens ,11365
+4,Queens,3,Central Queens ,11366
+4,Queens,3,Central Queens ,11367
+4,Queens,4,Jamaica ,11412
+4,Queens,4,Jamaica ,11423
+4,Queens,4,Jamaica ,11432
+4,Queens,4,Jamaica ,11433
+4,Queens,4,Jamaica ,11434
+4,Queens,4,Jamaica ,11435
+4,Queens,4,Jamaica ,11436
+4,Queens,5,Northwest Queens ,11101
+4,Queens,5,Northwest Queens ,11102
+4,Queens,5,Northwest Queens ,11103
+4,Queens,5,Northwest Queens ,11104
+4,Queens,5,Northwest Queens ,11105
+4,Queens,5,Northwest Queens ,11106
+4,Queens,6,West Central Queens ,11374
+4,Queens,6,West Central Queens ,11375
+4,Queens,6,West Central Queens ,11379
+4,Queens,6,West Central Queens ,11385
+4,Queens,7,Rockaways ,11691
+4,Queens,7,Rockaways ,11692
+4,Queens,7,Rockaways ,11693
+4,Queens,7,Rockaways ,11694
+4,Queens,7,Rockaways ,11695
+4,Queens,7,Rockaways ,11697
+4,Queens,8,Southeast Queens ,11004
+4,Queens,8,Southeast Queens ,11005
+4,Queens,8,Southeast Queens ,11411
+4,Queens,8,Southeast Queens ,11413
+4,Queens,8,Southeast Queens ,11422
+4,Queens,8,Southeast Queens ,11426
+4,Queens,8,Southeast Queens ,11427
+4,Queens,8,Southeast Queens ,11428
+4,Queens,8,Southeast Queens ,11429
+4,Queens,9,Southwest Queens ,11414
+4,Queens,9,Southwest Queens ,11415
+4,Queens,9,Southwest Queens ,11416
+4,Queens,9,Southwest Queens ,11417
+4,Queens,9,Southwest Queens ,11418
+4,Queens,9,Southwest Queens ,11419
+4,Queens,9,Southwest Queens ,11420
+4,Queens,9,Southwest Queens ,11421
+4,Queens,10,West Queens ,11368
+4,Queens,10,West Queens ,11369
+4,Queens,10,West Queens ,11370
+4,Queens,10,West Queens ,11372
+4,Queens,10,West Queens ,11373
+4,Queens,10,West Queens ,11377
+4,Queens,10,West Queens ,11378
+5,Staten Island,1,Port Richmond ,10302
+5,Staten Island,1,Port Richmond ,10303
+5,Staten Island,1,Port Richmond ,10310
+5,Staten Island,2,South Shore ,10306
+5,Staten Island,2,South Shore ,10307
+5,Staten Island,2,South Shore ,10308
+5,Staten Island,2,South Shore ,10309
+5,Staten Island,2,South Shore ,10312
+5,Staten Island,3,Stapleton and St. George ,10301
+5,Staten Island,3,Stapleton and St. George ,10304
+5,Staten Island,3,Stapleton and St. George ,10305
+5,Staten Island,4,Mid-Island ,10314
